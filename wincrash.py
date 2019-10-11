@@ -1,6 +1,6 @@
 import socket, sys, struct, threading, time, shodan, os
 from OpenSSL import SSL
-from impacket.impacket.structure import Structure
+from impacket.structure import Structure
 from pathlib import Path
 
 logo = '''
